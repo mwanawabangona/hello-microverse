@@ -2,9 +2,11 @@
 
 # Hello Microverse
 
-> Module 1 first solo project, basic page with one main branch, one feature branch and three files.
+>
+In this project, I will set up a "Hello world" repository. No complicated coding it is just used for exercise, it involves html and css.
 
-<!--![screenshot](./app_screenshot.png)-->
+![screenshot](./original.jpg)
+
 
 <!--Additional description about the project and its features.-->
 
@@ -43,6 +45,9 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author1**
 
 - GitHub: [@mwanawabangona](https://github.com/mwanawabangona)
+- Linkedin: [https://www.linkedin.com/in/ellis-ng-ona-50a600152/]
+- Twitter:[@Ellis_aah](https://twitter.com/Ellis_aah)
+
 
 
 ## 🤝 Contributing
